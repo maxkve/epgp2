@@ -1,5 +1,3 @@
-'use strict'
+"use strict";
 
-angular.module('epgpApp').service('utilService', function () {
-
-})
+angular.module("epgpApp").service("utilService", function() {});
